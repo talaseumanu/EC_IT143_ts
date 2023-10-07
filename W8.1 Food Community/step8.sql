@@ -1,0 +1,1 @@
+EXEC dbo.stock_counts;
